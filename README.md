@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Name:** Thammala Saketh
-- **Registration Number:** 252U1R7090
+- **Name:** Mathamsetty Hithesh
+- **Registration Number:** 252U1R7063
 - **Section:** CSE FSD - 2B
 - **Course:** Backend Development Fundamentals
 - **Lab Number:** 01
