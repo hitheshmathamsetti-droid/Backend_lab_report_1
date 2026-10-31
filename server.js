@@ -11,7 +11,7 @@ app.get("/", (request, response) => {
 // GET /about
 app.get("/about", (request, response) => {
     response.status(200).json({
-        name: "Thammala Saketh",
+        name: "Mathamsetty Hithesh",
         section: "CSE FSD - 2B"
     });
 });
